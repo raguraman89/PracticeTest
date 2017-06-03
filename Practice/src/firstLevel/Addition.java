@@ -6,6 +6,7 @@ public class Addition {
 		// TODO Auto-generated method stub
 
 		 System.out.println("add");
+		 System.out.println("ASD");
 	}
 
 }
